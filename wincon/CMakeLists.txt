@@ -25,5 +25,6 @@ demo_app(../demos version)
 demo_app(../demos widetest)
 demo_app(../demos worm)
 demo_app(../demos xmas)
+demo_app(../demos ChineseTest)
 
 SET(CPACK_COMPONENTS_ALL applications)
